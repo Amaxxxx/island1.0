@@ -36,7 +36,7 @@ If you are unsatisfied of the basic information, don't worry. you can edit it ag
 
 ![manage delete sort](https://user-images.githubusercontent.com/52597269/224026574-50c3150e-e08f-46b4-b0ad-6b10f1178c16.gif)
 
-# add,delete papers(编辑和管理手帐本)
+# add,delete papers(编辑和管理纸张)
 
 在添加贴纸之前，至少要加一张纸。你可以选择纸张的样式。如果你想删除，也可以选择你想删除页的页码然后点击“确定”删除。如果你觉得纸张的页面太大/太小，你也可以点击左上角的放大镜放大或缩小。
 
